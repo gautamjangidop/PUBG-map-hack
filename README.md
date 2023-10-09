@@ -50,3 +50,5 @@ This makes it possible to cheat with squads; only one member of the squad must r
 * 10.10.2017 Added kernel driver code. It should work out the box. I used VS2015 and its KMDF tools to dev / compile it.
 
 * 9.10.2017 Added the usermode app barebones. It does not work or compile yet. I will need to work on it for some more hours first.
+
+Hack uses by some bitches. :\
